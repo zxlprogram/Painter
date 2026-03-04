@@ -14,7 +14,7 @@ __1.10-alpha__
 
 ## environment
 	Windows 11: jdk-25
-	Ubuntu: jdk-25
+	Ubuntu 24.04: jdk-25
 	macOS don't have any testing record because of the macOS EULA, we can't use the macOS in virtual box
 
 ## version Description
